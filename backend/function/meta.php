@@ -201,6 +201,12 @@ cybertron Labs supports authors every step of the way";
     $keywords = "";
 
     break;
+     case "404.php";
+    $title_name = "Page Not Found | Cybertron Labs";
+    $description = "The page you are looking for can't be found.";
+    $keywords = "";
+
+    break;
 
 
 

@@ -15,7 +15,7 @@
   <base href="https://cybertronlabs.com/">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/imgs/template/fav.png">
-  <link href="/assets/css/style.css?v=2.0.0" rel="stylesheet">
+  <link href="/assets/css/style.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
