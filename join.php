@@ -2,19 +2,14 @@
 <?php
 require_once 'backend/config/dbc.php';
 require_once 'backend/function/functions.php';
+
 $positions = getActiveJobPositions($connection);
 ?>
 <main class="main">
     <section class="section banner-mode">
-
-
         <div class="box-content-banner">
-
             <div class="container-fluid">
-
-                <!-- 🔥 EXPANDABLE VIDEO SECTION STARTS -->
                 <img class="w-100" src="assets/imgs/page/join/join.png" alt="">
-                <!-- 🔥 EXPANDABLE VIDEO SECTION ENDS -->
 
             </div>
 
