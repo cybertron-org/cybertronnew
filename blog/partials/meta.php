@@ -225,6 +225,12 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "";
 
     break;
+    case "staff-augmentation-services-dubai.php";
+    $title_name = "Staff Augmentation Services Dubai | Cost-Effective Scaling for Startups";
+    $description = " Scale your startup faster with staff augmentation services in Dubai. Save up to 40% on hiring and build mobile apps and web platforms with expert developers. ";
+    $keywords = "";
+
+    break;
 
 }
 

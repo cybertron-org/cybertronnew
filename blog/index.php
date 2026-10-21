@@ -213,9 +213,9 @@
                                 <div class="overlay"></div>
                                 <div class="content">
                                     <div class="pb-10">
-                                        <a href="#" class="btn btn-blog ">Dec 18, 2025</a>
+                                        <a href="#" class="btn btn-blog ">Feb 26, 2026  </a>
                                     </div>
-                                    <a href="../blog/custom-web-development">
+                                    <a href="../blog/staff-augmentation-services-dubai">
                                         <p class="role1">Staff Augmentation Services in Dubai 
 
 
