@@ -12,7 +12,7 @@
   <meta name="keywords" content="index, page">
   <meta name="author" content="">
 
-  <base href="https://cybertronlabs.com/">
+  <base href="http://cybertronnew.test/">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/imgs/template/fav.png">
   <link href="/assets/css/style.css" rel="stylesheet">

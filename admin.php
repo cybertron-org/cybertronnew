@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['login'])) {
     $password = $_POST['password'] ?? '';
 
     if (adminLogin($email, $password)) {
-        header('Location: admin/dashboard.php');
+        header('Location: /admin/dashboard.php');
         exit;
     } else {
         $error = 'Invalid email or password';
@@ -21,7 +21,7 @@ if (isset($_GET['logout'])) {
 }
 
 if (isAdminLoggedIn()) {
-    header('Location: admin/dashboard.php');
+    header('Location: /admin/dashboard.php');
     exit;
 }
 
@@ -33,6 +33,9 @@ if (isAdminLoggedIn()) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Login - CybertronLabs</title>
+
+    <base href="https://cybertronlabs.com/">
+
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/x-icon" href="/assets/imgs/template/favicon.svg">
     <style>
@@ -183,7 +186,7 @@ if (isAdminLoggedIn()) {
             </div>
         <?php endif; ?>
 
-        <form method="POST">
+        <form method="POST" action="/admin/">
             <div class="form-group">
                 <label for="email">Email Address</label>
                 <i class="fas fa-envelope"></i>

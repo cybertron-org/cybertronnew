@@ -1,22 +1,69 @@
+
+<IfModule mod_rewrite.c>
 RewriteEngine On
+RewriteBase /
 
-# Remove .php extension
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [L]
+# ==========================================
+# 1. SECURITY
+# ==========================================
 
-# Add trailing slash if it's a directory without slash
+# Block access to Git metadata
+RewriteRule (^|/)\.git(/|$) - [F,L,NC]
+
+# Block access to hidden files
+# Allow .well-known for SSL verification
+RewriteRule (^|/)\.(?!well-known(?:/|$)) - [F,L]
+
+# ==========================================
+# 2. REMOVE .PHP EXTENSION
+# ==========================================
+
+# /join.php -> /join/
+# /contact-us.php -> /contact-us/
+
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php(?:[\s?]|$) [NC]
+RewriteRule ^(.+)\.php$ /$1/ [R=301,L,NE]
+
+# ==========================================
+# 3. CLEAN URLS WITH TRAILING SLASH
+# ==========================================
+
+# /join -> /join/
+# Only if join.php exists
+
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+[^/])$ /$1/ [R=301,L]
+
+# ==========================================
+# 4. INTERNALLY LOAD PHP FILES
+# ==========================================
+
+# /join/ -> join.php
+# /contact-us/ -> contact-us.php
+
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+)/$ $1.php [L]
+
+# ==========================================
+# 5. ALLOW EXISTING FILES AND DIRECTORIES
+# ==========================================
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^(.+[^/])$ $1/ [R=301,L]
+RewriteRule ^ - [L]
 
-# Internally rewrite to .php if missing
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*)$ $1.php [L]
+</IfModule>
 
-# ✅ Custom 404 error handling — redirect to full URL
-ErrorDocument 404 https://cybertronlabs.com/404
+# ==========================================
+# 6. PROTECT SENSITIVE FILES
+# ==========================================
 
-# (Optional) If someone tries to directly access /404/ path
-RewriteCond %{REQUEST_URI} ^/404/?$
-RewriteRule ^(.*)$ https://cybertronlabs.com/404 [L,R=302]
+<FilesMatch "^(\.env|\.gitignore|\.htaccess)$">
+    Require all denied
+</FilesMatch>
+
+# ==========================================
+# 7. CUSTOM 404 ERROR PAGE
+# ==========================================
+
+ErrorDocument 404 /404.php
