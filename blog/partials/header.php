@@ -33,7 +33,7 @@
     <div class="page-loader-logo "><img class="h100" src="../assets/imgs/page/homepage1/loader.gif" alt="neuron"
         class="">
     </div>
-    <!-- <div class="page-loader-logo "><img src="assets/imgs/page/homepage1/ct logo 02.gif" alt="neuron" class=""></div> -->
+    <!-- <div class="page-loader-logo "><img src="/assets/imgs/page/homepage1/ct logo 02.gif" alt="neuron" class=""></div> -->
     <div class="bar"></div>
     <div class="bar"></div>
     <div class="bar"></div>
@@ -56,8 +56,8 @@
   <div class="scroll-container" id="scroll-container">
 
 
-    <!-- <img class="w-100 mobilenone" src="assets/imgs/page/app/banner.jpg" alt="">
-    <img class="w-100 lnone" src="assets/imgs/page/app/4.jpg" alt=""> -->
+    <!-- <img class="w-100 mobilenone" src="/assets/imgs/page/app/banner.jpg" alt="">
+    <img class="w-100 lnone" src="/assets/imgs/page/app/4.jpg" alt=""> -->
     <header class="header sticky-bar">
       <div class="container-fluid">
         <div class="main-header d-flex justify-content-between align-items-center">

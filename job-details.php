@@ -75,7 +75,7 @@ if (!$position) {
                             </ul>
                         </div>
                         <div class="pb-50 pt-50">
-                            <img src="assets/imgs/page/join/line.png" alt="">
+                            <img src="/assets/imgs/page/join/line.png" alt="">
                         </div>
 
                         <p class="role pt-100 pb-50">Who You Are</p>
@@ -86,7 +86,7 @@ if (!$position) {
                             </ul>
                         </div>
                         <div class="pb-50 pt-50">
-                            <img src="assets/imgs/page/join/line.png" alt="">
+                            <img src="/assets/imgs/page/join/line.png" alt="">
                         </div>
                         <p class="role pt-100 pb-50">What We Offer</p>
                         <div class="bullet-card">

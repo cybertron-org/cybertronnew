@@ -59,7 +59,7 @@
                 <div class="row align-items-baseline">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -101,7 +101,7 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Discovery & Planning.jpg"
+                                <img src="/assets/imgs/page/App Development/Discovery & Planning.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Discovery & Planning
@@ -119,7 +119,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/1UIUX Design.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/App Development/1UIUX Design.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>UI/UX Design
                                     </h3>
@@ -132,7 +132,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Development.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/App Development/Development.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Development</h3>
                                     <p>We build secure, high-performance iOS and Android apps with modern tech.
@@ -146,7 +146,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Testing & QA.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/App Development/Testing & QA.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Testing & QA
                                     </h3>
@@ -157,7 +157,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Deployment.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/App Development/Deployment.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Deployment</h3>
                                     <p>We launch your app smoothly across all major platforms.
@@ -171,7 +171,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Support & Maintenance.jpg"
+                                <img src="/assets/imgs/page/App Development/Support & Maintenance.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Support & Maintenance
@@ -251,7 +251,7 @@
                         <div class="col-md-6 " data-aos="fade-left">
                             <div class="row">
                                 <div class="col-md-12 pb-10">
-                                    <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                                     <div class="fintech-banner">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">
@@ -267,7 +267,7 @@
                                 </div>
 
                                 <div class="col-md-6 pb-22">
-                                    <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                                     <div class="fintech-banner1">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">
@@ -282,7 +282,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                                     <div class="fintech-banner2">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">

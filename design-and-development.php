@@ -62,7 +62,7 @@
                 <div class="row align-items-baseline">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -106,7 +106,7 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Design & Development/E-Commerce Design & Strategy.png"
+                                <img src="/assets/imgs/page/Design & Development/E-Commerce Design & Strategy.png"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>E-Commerce Design & Strategy
@@ -124,7 +124,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Design & Development/Responsive Website Development.png"
+                                <img src="/assets/imgs/page/Design & Development/Responsive Website Development.png"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Responsive Website Development
@@ -140,7 +140,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Design & Development/Distinctive Brand Identities.png"
+                                <img src="/assets/imgs/page/Design & Development/Distinctive Brand Identities.png"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Distinctive Brand Identities
@@ -156,7 +156,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Design & Development/Custom-Built Digital Solutions.png"
+                                <img src="/assets/imgs/page/Design & Development/Custom-Built Digital Solutions.png"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Custom-Built Digital Solutions
@@ -170,7 +170,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Design & Development/Support & Maintenance.jpg"
+                                <img src="/assets/imgs/page/Design & Development/Support & Maintenance.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Reliable Maintenance & Support
@@ -187,7 +187,7 @@
                         <!-- Slide 2 -->
                         <!-- <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/homepage1/s6.png" alt="Software Engineer">
+                                <img src="/assets/imgs/page/homepage1/s6.png" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>E-commerce</h3>
                                     <p>Smart online stores that boost sales.</p>
@@ -198,7 +198,7 @@
                         <!-- Slide 3 -->
                         <!-- <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/homepage1/s7.png" alt="Software Engineer">
+                                <img src="/assets/imgs/page/homepage1/s7.png" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Design & Development</h3>
                                     <p>Transforming ideas into impactful digital solutions.</p>
@@ -209,7 +209,7 @@
                         <!-- Slide 4 -->
                         <!-- <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/homepage1/s8.png" alt="Software Engineer">
+                                <img src="/assets/imgs/page/homepage1/s8.png" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Maintenance & Support</h3>
                                     <p>Ensuring smooth performance with reliable support.</p>
@@ -219,7 +219,7 @@
 
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/homepage1/s9.png" alt="Software Engineer">
+                                <img src="/assets/imgs/page/homepage1/s9.png" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Automation & Apps</h3>
                                     <p>Simplifying work through smart automated apps.</p>
@@ -265,7 +265,7 @@
             <div class="container-fluid">
                 <div class="row  ">
                     <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
                     <div class="col-md-6" data-aos="fade-right">
                         <div class="startup-banner">
@@ -288,7 +288,7 @@
                     <div class="col-md-6 " data-aos="fade-left">
                         <div class="row">
                             <div class="col-md-12 pb-10">
-                                <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                                 <div class="fintech-banner">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -306,7 +306,7 @@
                             </div>
 
                             <div class="col-md-6 pb-22">
-                                <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                                 <div class="fintech-banner1">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -321,7 +321,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                                 <div class="fintech-banner2">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -350,7 +350,7 @@
                 </div>
                 <div class="row  ">
                     <!-- <div class="col-md-12" data-aos="fade-up">
-              <img class="w-100" src="assets/imgs/page/homepage1/f5.png" alt="">
+              <img class="w-100" src="/assets/imgs/page/homepage1/f5.png" alt="">
             </div> -->
 
 

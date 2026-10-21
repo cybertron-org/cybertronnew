@@ -89,7 +89,7 @@
                 <div class="row anchor-center">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -436,7 +436,7 @@
                         <!-- Slide 1 -->
                         <!-- <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Staff Augmentations/Staff Augmentation.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Staff Augmentations/Staff Augmentation.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Staff Augmentation</h3>
                                     <p>Expand teams quickly with expert talent.</p>
@@ -448,7 +448,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Staff Augmentations/Website Development.jpg"
+                                <img src="/assets/imgs/page/Staff Augmentations/Website Development.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Website Development</h3>
@@ -462,7 +462,7 @@
                         <!-- Slide 3 -->
                         <!-- <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Staff Augmentations/m" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Staff Augmentations/m" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Mobile App Development</h3>
                                     <p> Top staff augmentation services for mobile app development Dubai. Build
@@ -475,7 +475,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/App Development/Deployment.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/App Development/Deployment.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Software Development</h3>
 
@@ -493,7 +493,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Staff Augmentations/App Development set .jpg"
+                                <img src="/assets/imgs/page/Staff Augmentations/App Development set .jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Mobile App Development</h3>
@@ -509,7 +509,7 @@
 
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Staff Augmentations/AI & Cloud Expertise.jpg"
+                                <img src="/assets/imgs/page/Staff Augmentations/AI & Cloud Expertise.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>AI & Cloud Expertise </h3>
@@ -559,7 +559,7 @@
             <div class="container-fluid">
                 <div class="row  ">
                     <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
                     <div class="col-md-6" data-aos="fade-right">
                         <div class="startup-banner">
@@ -579,7 +579,7 @@
                     <div class="col-md-6 " data-aos="fade-left">
                         <div class="row">
                             <div class="col-md-12 pb-10">
-                                <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                                 <div class="fintech-banner">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -595,7 +595,7 @@
                             </div>
 
                             <div class="col-md-6 pb-22">
-                                <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                                 <div class="fintech-banner1">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -609,7 +609,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                                 <div class="fintech-banner2">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -638,7 +638,7 @@
                 </div>
                 <div class="row  ">
                     <!-- <div class="col-md-12" data-aos="fade-up">
-              <img class="w-100" src="assets/imgs/page/homepage1/f5.png" alt="">
+              <img class="w-100" src="/assets/imgs/page/homepage1/f5.png" alt="">
             </div> -->
 
 

@@ -17,7 +17,7 @@
                 </div> -->
 
                 <!-- 🔥 EXPANDABLE VIDEO SECTION STARTS -->
-                <img src="assets/imgs/page/case/a1.png" alt="">
+                <img src="/assets/imgs/page/case/a1.png" alt="">
                 <!-- 🔥 EXPANDABLE VIDEO SECTION ENDS -->
 
             </div>
@@ -56,7 +56,7 @@
                             personal golf training ground, bringing the course to you.</p>
 
                         <!-- <div class="pb-20 pt-20">
-                            <img src="assets/imgs/page/case/slider1.png" alt="">
+                            <img src="/assets/imgs/page/case/slider1.png" alt="">
                         </div> -->
 
 
@@ -73,7 +73,7 @@
 
             <div class="container-fluid" data-aos="fade-left">
                 <div class="pb-20 pt-20">
-                    <img src="assets/imgs/page/case/slider1.png" alt="">
+                    <img src="/assets/imgs/page/case/slider1.png" alt="">
                 </div>
             </div>
 
@@ -101,7 +101,7 @@
 
                 <div class="row">
                     <div class="col-md-6">
-                        <img class="w-100" src="assets/imgs/page/case/c2.png" alt="">
+                        <img class="w-100" src="/assets/imgs/page/case/c2.png" alt="">
                     </div>
                     <div class="col-md-6">
                         <p class="head pb-45">Level-Up Your <span class="purple">Golf Game </span>
@@ -148,7 +148,7 @@
                             dynamic analysis and interactive challenges.</p>
 
                         <!-- <div class="pb-20 pt-20">
-                            <img src="assets/imgs/page/case/slider1.png" alt="">
+                            <img src="/assets/imgs/page/case/slider1.png" alt="">
                         </div> -->
 
                         <p class="role pb-45 pt-45">Our Challenge</p>
@@ -163,7 +163,7 @@
 
                         <br>
                         <div class="pb-50 pt-50">
-                            <img src="assets/imgs/page/join/line.png" alt="">
+                            <img src="/assets/imgs/page/join/line.png" alt="">
                         </div>
 
                         <p class="role pt-100 pb-50">Who You Are</p>

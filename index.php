@@ -12,7 +12,7 @@
         <!-- 🔥 EXPANDABLE VIDEO SECTION STARTS -->
         <div class="expand-width-section" id="hero-section">
           <!-- 🎥 Background Video -->
-          <video id="bgVideo" src="assets/imgs/page/homepage1/web bg.mp4" autoplay muted loop playsinline preload="auto"
+          <video id="bgVideo" src="/assets/imgs/page/homepage1/web bg.mp4" autoplay muted loop playsinline preload="auto"
             class="bg-video">
           </video>
 
@@ -66,7 +66,7 @@
         <div class="row align-items-baseline">
           <div class="col-md-3">
             <a href="#" class="why-link">
-              <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+              <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
               Overview
             </a>
           </div>
@@ -114,7 +114,7 @@
             <!-- Slide 1 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s1.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s1.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>Web Development</h3>
                   <p>Modern, responsive websites that look great on every device.
@@ -127,7 +127,7 @@
             <!-- Slide 2 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s2.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s2.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>App Development</h3>
                   <p>Seamless mobile apps for iOS and Android that your customers will love.
@@ -139,7 +139,7 @@
             <!-- Slide 3 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s3.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s3.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>Custom Software Development</h3>
                   <p>Tailor-made solutions designed to fit the way you do business.
@@ -151,7 +151,7 @@
             <!-- Slide 4 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s4.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s4.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>UI/UX Design</h3>
                   <p>Eye-catching, user-friendly designs that keep people coming back.
@@ -161,7 +161,7 @@
             </div>
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s5.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s5.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>E-Commerce Solutions</h3>
                   <p>Online stores that are secure, fast, and easy to manage.
@@ -174,7 +174,7 @@
             <!-- Slide 2 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s6.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s6.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>DevOps Services</h3>
                   <p> We help you build smarter and deliver faster with cloud and automation.
@@ -186,7 +186,7 @@
             <!-- Slide 3 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s7.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s7.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>Maintenance & Support</h3>
                   <p>Reliable updates and security to keep everything running smoothly.
@@ -198,7 +198,7 @@
             <!-- Slide 4 -->
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s8.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s8.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>Staff Augmentation</h3>
                   <p>Hire skilled developers and tech experts when you need extra hands.
@@ -209,7 +209,7 @@
 
             <div class="swiper-slide">
               <div class="image-card">
-                <img src="assets/imgs/page/homepage1/s9.png" alt="Software Engineer">
+                <img src="/assets/imgs/page/homepage1/s9.png" alt="Software Engineer">
                 <div class="overlay-text">
                   <h3>Project Management</h3>
                   <p> End-to-end management to deliver your project on time, every time.
@@ -250,7 +250,7 @@
         <div class="container-fluid">
           <div class="row  ">
             <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
             <div class="col-md-6" data-aos="fade-right">
               <div class="startup-banner">
@@ -275,7 +275,7 @@
             <div class="col-md-6 " data-aos="fade-left">
               <div class="row">
                 <div class="col-md-12 pb-10">
-                  <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                   <div class="fintech-banner">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -289,7 +289,7 @@
                 </div>
 
                 <div class="col-md-6 pb-22">
-                  <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                   <div class="fintech-banner1">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -304,7 +304,7 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                   <div class="fintech-banner2">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -331,7 +331,7 @@
           </div>
           <div class="row  ">
             <!-- <div class="col-md-12" data-aos="fade-up">
-              <img class="w-100" src="assets/imgs/page/homepage1/f5.png" alt="">
+              <img class="w-100" src="/assets/imgs/page/homepage1/f5.png" alt="">
             </div> -->
             <div class="col-md-12" data-aos="fade-up">
               <div class="education-banner">
@@ -380,14 +380,14 @@
           
             <p class="cost "> Marketing Costs</p>
             <p class="number1 pb-20 pt-20">-87%</p>
-            <img class="h-75 w-100" src="assets/imgs/page/homepage1/marketing-costs 1.png" alt="">
+            <img class="h-75 w-100" src="/assets/imgs/page/homepage1/marketing-costs 1.png" alt="">
 
           </div>
           <div class="col-sm-6 mobileh" data-aos="fade-left">
             <div class="row">
               <div class="col-md-12">
                
-                <img class="w-100 mobilenone" src="assets/imgs/page/homepage1/g1 (2).png" alt="">
+                <img class="w-100 mobilenone" src="/assets/imgs/page/homepage1/g1 (2).png" alt="">
               </div>
             
             </div>
@@ -430,7 +430,7 @@
             </div> -->
         <div class="row align-items-center pb-80">
           <div class="col-md-5" data-aos="fade-right">
-            <img class="mobilenone" src="assets/imgs/page/homepage1/in.png" alt="">
+            <img class="mobilenone" src="/assets/imgs/page/homepage1/in.png" alt="">
           </div>
           <div class="col-md-6 offset-md-1 " data-aos="fade-left">
             <p class="head">Driven by <span class="purple">Innovation </span> <br>
@@ -499,7 +499,7 @@
                         helped us add new features at the last minute without delays.</p>
                       <div class="testimonial-client">
                         <div>
-                          <img class="client-logo" src="assets/imgs/page/testimonails/2.png" alt="">
+                          <img class="client-logo" src="/assets/imgs/page/testimonails/2.png" alt="">
                         </div>
                         <div>
                           <div class="client-name">Aisha Khan</div>
@@ -513,7 +513,7 @@
                     <p class="testimonial-text">Our e-commerce site looks amazing and loads faster than we expected.
                       The whole process was smooth and stress-free.</p>
                     <div class="testimonial-client">
-                      <img class="client-logo" src="assets/imgs/page/testimonails/1.png" alt="">
+                      <img class="client-logo" src="/assets/imgs/page/testimonails/1.png" alt="">
 
                       <div>
                         <div class="client-name">Rashid Al-Farsi</div>
@@ -527,7 +527,7 @@
                       and easy to manage. Truly a game-changer for our business.</p>
                     <div class="testimonial-client">
                       <div>
-                        <img class="client-logo" src="assets/imgs/page/testimonails/4.png" alt="">
+                        <img class="client-logo" src="/assets/imgs/page/testimonails/4.png" alt="">
 
                       </div>
                       <div>
@@ -546,7 +546,7 @@
                     <div class="testimonial-client">
                       <div >
 
-                            <img class="client-logo" src="assets/imgs/page/testimonails/3.png" alt="">
+                            <img class="client-logo" src="/assets/imgs/page/testimonails/3.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Dr. Kareem Al-Harbi</div>
@@ -560,7 +560,7 @@
                       times in half. Professional and reliable service.</p>
                     <div class="testimonial-client">
                       <div>
-                         <img class="client-logo" src="assets/imgs/page/testimonails/5.png" alt="">
+                         <img class="client-logo" src="/assets/imgs/page/testimonails/5.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Daniel Thomas</div>
@@ -574,7 +574,7 @@
                       modern, intuitive, and our customers love it.</p>
                     <div class="testimonial-client">
                       <div>
-                         <img class="client-logo" src="assets/imgs/page/testimonails/6.png" alt="">
+                         <img class="client-logo" src="/assets/imgs/page/testimonails/6.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Layla Hussain</div>
@@ -591,7 +591,7 @@
                       support team went the extra mile.</p>
                     <div class="testimonial-client">
                       <div >
-                         <img class="client-logo" src="assets/imgs/page/testimonails/7.png" alt="">
+                         <img class="client-logo" src="/assets/imgs/page/testimonails/7.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Mohammed Ali</div>
@@ -605,7 +605,7 @@
                       fast without compromising quality.</p>
                     <div class="testimonial-client">
                       <div >
-                         <img class="client-logo" src="assets/imgs/page/testimonails/85.png" alt="">
+                         <img class="client-logo" src="/assets/imgs/page/testimonails/85.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Sarah Ibrahim</div>
@@ -619,7 +619,7 @@
                       that actually boosted our sales and customer engagement.</p>
                     <div class="testimonial-client">
                       <div >
-                          <img class="client-logo" src="assets/imgs/page/testimonails/9.png" alt="">
+                          <img class="client-logo" src="/assets/imgs/page/testimonails/9.png" alt="">
                       </div>
                       <div>
                         <div class="client-name">Hassan Malik</div>

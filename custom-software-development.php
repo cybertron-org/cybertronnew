@@ -59,7 +59,7 @@
                 <div class="row align-items-baseline">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -101,7 +101,7 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Custom-Software/Enterprise Software Development.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Custom-Software/Enterprise Software Development.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Enterprise Software Development
                                     </h3>
@@ -117,7 +117,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Custom-Software/Web Application Development.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Custom-Software/Web Application Development.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Web Application Development
                                     </h3>
@@ -132,7 +132,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Custom-Software/E-Commerce Solutions.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Custom-Software/E-Commerce Solutions.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>E-Commerce Solutions
                                     </h3>
@@ -148,7 +148,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Custom-Software/Mobile App Development.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Custom-Software/Mobile App Development.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Mobile App Development</h3>
                                     <p>We create Android and iOS apps that fit your goals and users.
@@ -160,7 +160,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/Custom-Software/1UIUX Design.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/Custom-Software/1UIUX Design.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>UX/UI Design</h3>
                                     <p>We craft clean, intuitive designs that make every experience seamless.

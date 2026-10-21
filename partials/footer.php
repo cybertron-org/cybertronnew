@@ -127,14 +127,14 @@
 
           <!-- Left -->
           <div class="col-md-6 mb-4 mb-md-0 footer-branding">
-            <a href="index"> <img src="assets/imgs/page/homepage1/logo.svg" alt=""></a>
+            <a href="index"> <img src="/assets/imgs/page/homepage1/logo.svg" alt=""></a>
             <p class="copyright-text">© 2025, All rights reserved</p>
           </div>
 
           <!-- Right -->
           <div class="col-md-6 text-md-end footer-badges-area">
             <div class="d-flex flex-wrap justify-content-md-end gap-3 mb-3">
-              <img src="assets/imgs/page/homepage1/experts.png" alt="">
+              <img src="/assets/imgs/page/homepage1/experts.png" alt="">
             </div>
             <div class="footer-links">
               <a href="#" class="copyright-text">Terms & Conditions</a>
@@ -157,7 +157,7 @@
 
       
         <div class="modal-body p-0 text-center" style="line-height: 0;">
-          <img id="delayedImg" data-src="assets/imgs/page/app/popup.jpg" alt="Delayed" class="img-fluid w-100">
+          <img id="delayedImg" data-src="/assets/imgs/page/app/popup.jpg" alt="Delayed" class="img-fluid w-100">
         
         </div>
 
@@ -167,27 +167,27 @@
 
 
 
-  <div class="scroll-to-top" id="scroll-to-top"><img src="assets/imgs/template/icons/top.png" alt="neuron"></div>
+  <div class="scroll-to-top" id="scroll-to-top"><img src="/assets/imgs/template/icons/top.png" alt="neuron"></div>
   <!--Vendors Scripts-->
-  <script src="assets/js/vendors/jquery-3.7.0.min.js"></script>
-  <script src="assets/js/vendors/bootstrap.bundle.min.js"></script>
+  <script src="/assets/js/vendors/jquery-3.7.0.min.js"></script>
+  <script src="/assets/js/vendors/bootstrap.bundle.min.js"></script>
   <!--Gsap-->
-  <script src="assets/js/vendors/gsap/3.12.0/gsap.min.js"></script>
-  <script src="assets/js/vendors/gsap/3.12.0/ScrollTrigger.min.js"></script>
-  <script src="assets/js/vendors/gsap/3.12.0/ScrollToPlugin.min.js"></script>
+  <script src="/assets/js/vendors/gsap/3.12.0/gsap.min.js"></script>
+  <script src="/assets/js/vendors/gsap/3.12.0/ScrollTrigger.min.js"></script>
+  <script src="/assets/js/vendors/gsap/3.12.0/ScrollToPlugin.min.js"></script>
   <!--Other-->
-  <script src="assets/js/vendors/isotope.js"></script>
-  <!-- <script src="assets/js/vendors/swiper-bundle.min.js"></script> -->
-  <script src="assets/js/vendors/slick.js"></script>
-  <script src="assets/js/vendors/magnific-popup.js"></script>
-  <script src="assets/js/vendors/jquery.lettering.js"></script>
-  <script src="assets/js/vendors/perfect-scrollbar.min.js"></script>
-  <script src="assets/js/vendors/jquery.lazyload.min.js"></script>
-  <script src="assets/js/vendors/smooth-scrollbar.js"></script>
+  <script src="/assets/js/vendors/isotope.js"></script>
+  <!-- <script src="/assets/js/vendors/swiper-bundle.min.js"></script> -->
+  <script src="/assets/js/vendors/slick.js"></script>
+  <script src="/assets/js/vendors/magnific-popup.js"></script>
+  <script src="/assets/js/vendors/jquery.lettering.js"></script>
+  <script src="/assets/js/vendors/perfect-scrollbar.min.js"></script>
+  <script src="/assets/js/vendors/jquery.lazyload.min.js"></script>
+  <script src="/assets/js/vendors/smooth-scrollbar.js"></script>
   <!--Custom script for this template-->
-  <script src="assets/js/main.js?v=2.0.0"></script>
-  <script src="assets/js/swiper-slider-config.js?v=2.0.0"></script>
-  <script src="assets/js/custom.js?v=2.0.0"></script>
+  <script src="/assets/js/main.js?v=2.0.0"></script>
+  <script src="/assets/js/swiper-slider-config.js?v=2.0.0"></script>
+  <script src="/assets/js/custom.js?v=2.0.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>

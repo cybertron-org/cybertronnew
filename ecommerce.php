@@ -56,7 +56,7 @@
                 <div class="row align-items-baseline">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -93,7 +93,7 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/E-Commerce/Mobile-First Shopping.jpg"
+                                <img src="/assets/imgs/page/E-Commerce/Mobile-First Shopping.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Mobile-First Shopping</h3>
@@ -107,7 +107,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/E-Commerce/Secure Payment Solutions.jpg"
+                                <img src="/assets/imgs/page/E-Commerce/Secure Payment Solutions.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Secure Payment Solutions</h3>
@@ -119,7 +119,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/E-Commerce/Inventory & Order Management.jpg"
+                                <img src="/assets/imgs/page/E-Commerce/Inventory & Order Management.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Inventory & Order Management</h3>
@@ -132,7 +132,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/E-Commerce/Scalable Platforms.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/E-Commerce/Scalable Platforms.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Scalable Platforms</h3>
                                     <p>Future-ready solutions that grow with your business.
@@ -178,7 +178,7 @@
             <div class="container-fluid">
                 <div class="row  ">
                     <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
                     <div class="col-md-6" data-aos="fade-right">
                         <div class="startup-banner">
@@ -198,7 +198,7 @@
                     <div class="col-md-6 " data-aos="fade-left">
                         <div class="row">
                             <div class="col-md-12 pb-10">
-                                <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                                 <div class="fintech-banner">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -214,7 +214,7 @@
                             </div>
 
                             <div class="col-md-6 pb-22">
-                                <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                                 <div class="fintech-banner1">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">
@@ -228,7 +228,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                                <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                                 <div class="fintech-banner2">
                                     <div class="fintech-overlay"></div>
                                     <div class="fintech-content">

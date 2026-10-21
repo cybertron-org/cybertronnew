@@ -52,7 +52,7 @@
                 <div class="row align-items-baseline">
                     <div class="col-md-3">
                         <a href="#" class="why-link">
-                            <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+                            <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
                             Overview
                         </a>
                     </div>
@@ -88,7 +88,7 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/UIUX Design/Discover & Understand.jpg"
+                                <img src="/assets/imgs/page/UIUX Design/Discover & Understand.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Discover & Understand</h3>
@@ -103,7 +103,7 @@
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/UIUX Design/Plan & Wireframe.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/UIUX Design/Plan & Wireframe.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Plan & Wireframe</h3>
                                     <p>We map user flows and layouts for clear design direction.
@@ -116,7 +116,7 @@
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/UIUX Design/Design the Experience.jpg"
+                                <img src="/assets/imgs/page/UIUX Design/Design the Experience.jpg"
                                     alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Design the Experience</h3>
@@ -130,7 +130,7 @@
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/UIUX Design/Test & Refine.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/UIUX Design/Test & Refine.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Test & Refine</h3>
                                     <p>We gather feedback to enhance speed, flow, and usability.
@@ -141,7 +141,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="image-card">
-                                <img src="assets/imgs/page/UIUX Design/Deliver & Support.jpg" alt="Software Engineer">
+                                <img src="/assets/imgs/page/UIUX Design/Deliver & Support.jpg" alt="Software Engineer">
                                 <div class="overlay-text">
                                     <h3>Deliver & Support
                                     </h3>
@@ -200,7 +200,7 @@
                 <div class="container-fluid">
                     <div class="row  ">
                         <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
                         <div class="col-md-6" data-aos="fade-right">
                             <div class="startup-banner">
@@ -221,7 +221,7 @@
                         <div class="col-md-6 " data-aos="fade-left">
                             <div class="row">
                                 <div class="col-md-12 pb-10">
-                                    <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                                     <div class="fintech-banner">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">
@@ -237,7 +237,7 @@
                                 </div>
 
                                 <div class="col-md-6 pb-22">
-                                    <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                                     <div class="fintech-banner1">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">
@@ -253,7 +253,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                                    <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                                     <div class="fintech-banner2">
                                         <div class="fintech-overlay"></div>
                                         <div class="fintech-content">

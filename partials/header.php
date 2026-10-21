@@ -1,4 +1,3 @@
-
 <?php include 'backend/function/meta.php' ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,8 +11,11 @@
   <meta name="description" content="<?php echo $description; ?>">
   <meta name="keywords" content="index, page">
   <meta name="author" content="">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/template/fav.png">
-  <link href="assets/css/style.css?v=2.0.0" rel="stylesheet">
+
+  <base href="https://cybertronlabs.com/">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/imgs/template/fav.png">
+  <link href="/assets/css/style.css?v=2.0.0" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
@@ -31,17 +33,17 @@
 </head>
 
 <body class="no-loader-animation">
-<div id="custom-loader">
-  <div class="page-loader-logo">
-    <img src="assets/imgs/page/homepage1/loader.gif" alt="loader" class="loader-img">
+  <div id="custom-loader">
+    <div class="page-loader-logo">
+      <img src="/assets/imgs/page/homepage1/loader.gif" alt="loader" class="loader-img">
     </div>
-</div>
+  </div>
 
 
   <!-- <div class="follower"></div>
-  <div class="cursor"><span class="dot"></span><span class="play"><img src="assets/imgs/template/icons/cursor-play.svg"
-        alt="neuron"><span>Play</span></span><span class="drag"><img src="assets/imgs/template/icons/cursor-drag.svg"
-        alt="neuron"><span>Drag</span></span><span class="view"><img src="assets/imgs/template/icons/cursor-view.svg"
+  <div class="cursor"><span class="dot"></span><span class="play"><img src="/assets/imgs/template/icons/cursor-play.svg"
+        alt="neuron"><span>Play</span></span><span class="drag"><img src="/assets/imgs/template/icons/cursor-drag.svg"
+        alt="neuron"><span>Drag</span></span><span class="view"><img src="/assets/imgs/template/icons/cursor-view.svg"
         alt="neuron"><span>View</span></span></div> -->
 
 
@@ -49,15 +51,15 @@
   <div class="scroll-container" id="scroll-container">
 
 
-    <!-- <img class="w-100 mobilenone" src="assets/imgs/page/app/banner.jpg" alt="">
-    <img class="w-100 lnone" src="assets/imgs/page/app/4.jpg" alt=""> -->
+    <!-- <img class="w-100 mobilenone" src="/assets/imgs/page/app/banner.jpg" alt="">
+    <img class="w-100 lnone" src="/assets/imgs/page/app/4.jpg" alt=""> -->
     <header class="header sticky-bar">
       <div class="container-fluid">
         <div class="main-header d-flex justify-content-between align-items-center">
 
           <!-- Logo -->
           <div class="header-logo">
-            <a href="./"><img src="assets/imgs/page/homepage1/logo.png" alt="neuron" class="img-900"></a>
+            <a href="./"><img src="/assets/imgs/page/homepage1/logo.png" alt="neuron" class="img-900"></a>
           </div>
 
           <!-- Desktop Menu -->

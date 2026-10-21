@@ -8,7 +8,7 @@
       <div class="container-fluid">
 
         <!-- 🔥 EXPANDABLE VIDEO SECTION STARTS -->
-        <!-- <img class="w-100" src="assets/imgs/page/what-we/banner.png" alt=""> -->
+        <!-- <img class="w-100" src="/assets/imgs/page/what-we/banner.png" alt=""> -->
         <!-- 🔥 EXPANDABLE VIDEO SECTION ENDS -->
         <section class="about-banner">
           <div class="banner-overlay">
@@ -39,7 +39,7 @@
         <div class="row align-items-baseline">
           <div class="col-md-3">
             <a href="#" class="why-link">
-              <img class="w-24" src="assets/imgs/page/homepage1/arrow.png" alt="">
+              <img class="w-24" src="/assets/imgs/page/homepage1/arrow.png" alt="">
               Our Approach
             </a>
           </div>
@@ -91,7 +91,7 @@
         <div class="container-fluid">
           <div class="row  ">
             <!-- <div class="col-md-6 " data-aos="fade-right">
-              <img src="assets/imgs/page/homepage1/f1.png" alt="">
+              <img src="/assets/imgs/page/homepage1/f1.png" alt="">
             </div> -->
             <div class="col-md-6" data-aos="fade-right">
               <div class="startup-banner">
@@ -114,7 +114,7 @@
             <div class="col-md-6 " data-aos="fade-left">
               <div class="row">
                 <div class="col-md-12 pb-10">
-                  <!-- <img src="assets/imgs/page/homepage1/f2.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f2.png" alt=""> -->
                   <div class="fintech-banner">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -132,7 +132,7 @@
                 </div>
 
                 <div class="col-md-6 pb-22">
-                  <!-- <img src="assets/imgs/page/homepage1/f3.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f3.png" alt=""> -->
                   <div class="fintech-banner1">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -148,7 +148,7 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <!-- <img src="assets/imgs/page/homepage1/f4.png" alt=""> -->
+                  <!-- <img src="/assets/imgs/page/homepage1/f4.png" alt=""> -->
                   <div class="fintech-banner2">
                     <div class="fintech-overlay"></div>
                     <div class="fintech-content">
@@ -194,14 +194,14 @@
           
             <p class="cost "> Marketing Costs</p>
             <p class="number1 pb-20 pt-20">-87%</p>
-            <img class="h-75 w-100" src="assets/imgs/page/homepage1/marketing-costs 1.png" alt="">
+            <img class="h-75 w-100" src="/assets/imgs/page/homepage1/marketing-costs 1.png" alt="">
 
           </div>
           <div class="col-sm-6 mobileh" data-aos="fade-left">
             <div class="row">
               <div class="col-md-12">
                
-                <img class="w-100 mobilenone" src="assets/imgs/page/homepage1/g1 (2).png" alt="">
+                <img class="w-100 mobilenone" src="/assets/imgs/page/homepage1/g1 (2).png" alt="">
               </div>
             
             </div>

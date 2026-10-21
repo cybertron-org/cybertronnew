@@ -9,7 +9,7 @@ $positions = getActiveJobPositions($connection);
     <section class="section banner-mode">
         <div class="box-content-banner">
             <div class="container-fluid">
-                <img class="w-100" src="assets/imgs/page/join/join.png" alt="">
+                <img class="w-100" src="/assets/imgs/page/join/join.png" alt="">
 
             </div>
 
