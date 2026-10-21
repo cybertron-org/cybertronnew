@@ -12,6 +12,9 @@
   <meta name="keywords" content="index, page">
   <meta name="author" content="">
   <link rel="shortcut icon" type="image/x-icon" href="../assets/imgs/template/fav.png">
+  
+<base href="https://cybertronlabs.com/">
+
   <link href="../assets/css/style.css?v=2.0.0" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
