@@ -185,6 +185,18 @@
     }
   }
 
+  .no-loader-animation,
+.no-loader-animation * {
+    animation: none !important;
+    transition: none !important;
+}
+
+.no-loader-animation {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+
   .role1 {
     color: white;
     font-size: 36px;
@@ -1942,6 +1954,57 @@
   }
 
   .startup-banner1 {
+    position: relative;
+    background: url(../imgs/page/blog/b1.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 40px;
+    height: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
+    .startup-banner11 {
+    position: relative;
+    background: url(../imgs/page/blog/b2.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 40px;
+    height: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
+     .startup-banner12 {
+    position: relative;
+    background: url(../imgs/page/blog/b3.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 40px;
+    height: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+     .startup-banner13 {
+    position: relative;
+    background: url(../imgs/page/blog/b4.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 40px;
+    height: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
+  .startup-banner14 {
     position: relative;
     background: url(../imgs/page/blog/b1.png) no-repeat center center / cover;
     border-radius: 15px;
@@ -6078,7 +6141,56 @@
     height: 55rem;
   }
 
-  .page-loader {
+#custom-loader {
+   /* display: inline;
+    position: absolute; */
+    /* top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%); */
+     position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 99999;
+    display: flex;
+    /* width: 100%;
+    height: 100vh; */
+    background-color: #000; 
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; */
+}
+
+.page-loader-logo {
+    display: inline;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    animation: zoomInOut 1s ease-in-out infinite;
+}
+
+@keyframes zoomInOut {
+    0% { transform: scale(1); opacity: 0.8; }
+    50% { transform: scale(1.05); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.8; }
+}
+
+body {
+    opacity: 1 !important;
+    background: #fff; 
+}
+
+
+
+/* @keyframes zoomInOut {
+    0% { transform: scale(1); opacity: 0.7; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.7; }
+} */
+
+
+  /* .page-loader {
     position: fixed;
     width: 100vw;
     height: 100vh;
@@ -6092,7 +6204,7 @@
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-  }
+  } */
 
   .bar {
     width: 10vw;
@@ -15646,13 +15758,13 @@
     }
   }
 
-  .job4 {
+ .job4 {
     color: #000;
-    font-size: 42px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 200;
-    line-height: 98.1%;
-  }
+    line-height: 1.3;
+}
 
   a:hover {
     color: #5658BE !important;
@@ -15666,6 +15778,31 @@
       }
 
   @media (min-width: 319px) and (max-width: 480px) {
+    .interactive {
+ 
+    font-size: 19px;
+    
+}
+
+.pb-30 {
+    padding-bottom: 0px !important;
+}
+
+.startup-banner1 {
+    position: relative;
+    background: url(../imgs/page/blog/b1.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 30px;
+    
+}
+.role1 {
+    color: white;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.3;
+}
 
     .pt-45 {
       padding-top: 0px !important;
@@ -15780,10 +15917,17 @@
       height: auto;
 
     }
+    .box-why-us3 {
+    padding: 10px 0px 50px 0px;
+   
+}
+.pt-50 {
+    padding-top: 20px !important;
+}
 
     .anbg {
   bottom: 135.5rem;
-      /* display: none; */
+      display: none;
     }
 
     .top-1 {
@@ -16302,9 +16446,14 @@
       line-height: 1.2;
       font-weight: 600;
     }
+    .pb-80 {
+    padding-bottom: 20px !important;
+}
+
+
 
     .box-why-us1 {
-      padding: 50px 0px 0px 0px;
+      padding: 25px 0px 0px 0px;
       /* background-image: url(../imgs/page/web/bgblue.png); */
       background-repeat: no-repeat;
       background-size: 100% 100%;
@@ -16386,7 +16535,7 @@
     .head {
       color: #000;
       /* font-family: Urbanist; */
-      font-size: 24px;
+      font-size: 21px;
       font-style: normal;
       font-weight: 700;
       line-height: 1.4;

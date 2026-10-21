@@ -1,5 +1,5 @@
-<?php include 'backend/function/meta.php' ?>
 
+<?php include 'backend/function/meta.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -22,41 +22,35 @@
     rel="stylesheet">
   <!-- <link href="https://db.onlinewebfonts.com/c/xxxxxxxxxxxxxxxx?family=AkiraExpanded" rel="stylesheet"> -->
 
-
+  <!-- CANONICAL TAG -->
+  <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>" />
   <title>
     <?php echo $title_name; ?>
   </title>
   <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 </head>
 
-<body class="dark-mode page-transition alith-magic-cursor">
-  <div class="page-loader">
-    <div class="page-loader-logo "><img class="h100" src="assets/imgs/page/homepage1/loader.gif" alt="neuron" class=""></div>
-     <!-- <div class="page-loader-logo "><img src="assets/imgs/page/homepage1/ct logo 02.gif" alt="neuron" class=""></div> -->
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-  </div>
-  <div class="follower"></div>
+<body class="no-loader-animation">
+<div id="custom-loader">
+  <div class="page-loader-logo">
+    <img src="assets/imgs/page/homepage1/loader.gif" alt="loader" class="loader-img">
+    </div>
+</div>
+
+
+  <!-- <div class="follower"></div>
   <div class="cursor"><span class="dot"></span><span class="play"><img src="assets/imgs/template/icons/cursor-play.svg"
         alt="neuron"><span>Play</span></span><span class="drag"><img src="assets/imgs/template/icons/cursor-drag.svg"
         alt="neuron"><span>Drag</span></span><span class="view"><img src="assets/imgs/template/icons/cursor-view.svg"
-        alt="neuron"><span>View</span></span></div>
+        alt="neuron"><span>View</span></span></div> -->
 
 
 
   <div class="scroll-container" id="scroll-container">
 
 
-    <img class="w-100 mobilenone" src="assets/imgs/page/app/banner.jpg" alt="">
-    <img class="w-100 lnone" src="assets/imgs/page/app/4.jpg" alt="">
+    <!-- <img class="w-100 mobilenone" src="assets/imgs/page/app/banner.jpg" alt="">
+    <img class="w-100 lnone" src="assets/imgs/page/app/4.jpg" alt=""> -->
     <header class="header sticky-bar">
       <div class="container-fluid">
         <div class="main-header d-flex justify-content-between align-items-center">
@@ -88,14 +82,14 @@
                       </div>
                       <div class="col">
                         <li><a href="devops">Devops </a></li>
-                        <!-- <li><a href="maintainance-and-support">Maintenance & Support</a></li> -->
+                        <li><a href="maintainance-and-support">Maintenance & Support</a></li>
                         <li><a href="staff-augmentation">Staff Augmentations</a></li>
                       </div>
                       <div class="col">
-                        <!-- <li><a href="blog.">News & Events</a></li>
-                        <li><a href="blog-2.">Project Management</a></li> -->
+                        <li><a href="blog.">News & Events</a></li>
+                        <li><a href="blog-2.">Project Management</a></li>
                         <li><a href="join">Jobs & Careers</a></li>
-                         <li><a href="maintainance-and-support">Maintenance & Support</a></li>
+
                       </div>
                     </div>
                   </ul>
@@ -109,7 +103,7 @@
                   <ul class="D1-menu">
                     <!-- <a href="how-we-deliver" class="D1-link">Case-Studies</a> -->
 
-                    <a href="blogs" class="D1-link">Blogs</a>
+                    <a href="blog/" class="D1-link">Blogs</a>
                     <li><a href="golf-master-ar" class="D1-sub">Golf-Master</a></li>
                     <!-- <li><a href="it-staff-augmentation" class="D1-sub">It-Staff-Augmentation</a></li> -->
 
@@ -185,23 +179,24 @@
               <li><a href="join">Jobs & Careers</a></li>
             </ul>
           </li> -->
-<?php include 'partials/mobile.php'; ?>
+          <?php include __DIR__ . '/mobile.php'; ?>
+
 
           <li><a href="who-we-are">Who We Are</a></li>
           <li><a href="golf-master-ar">How we Deliver</a></li>
           <li><a href="join">Join Cybertron</a></li>
           <li><a href="contact-us">Get in Touch</a></li>
-           <li class="D1-item">
-                  <a href="#" class="D1-link">How we Deliver ▾</a>
-                  <ul class="D1-menu">
-                    <!-- <a href="how-we-deliver" class="D1-link">Case-Studies</a> -->
+          <li class="D1-item">
+            <a href="#" class="D1-link">How we Deliver ▾</a>
+            <ul class="D1-menu">
+              <!-- <a href="how-we-deliver" class="D1-link">Case-Studies</a> -->
 
-                    <a href="blogs" class="D1-link">Blogs</a>
-                    <li><a href="golf-master-ar" class="D1-sub">Golf-Master</a></li>
-                    <!-- <li><a href="it-staff-augmentation" class="D1-sub">It-Staff-Augmentation</a></li> -->
+              <a href="./blog/index" class="D1-link">Blogs</a>
+              <li><a href="golf-master-ar" class="D1-sub">Golf-Master</a></li>
+              <!-- <li><a href="it-staff-augmentation" class="D1-sub">It-Staff-Augmentation</a></li> -->
 
-                  </ul>
-                </li>
+            </ul>
+          </li>
         </ul>
       </div>
     </header>
